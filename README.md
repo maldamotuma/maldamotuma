@@ -25,8 +25,12 @@ I'm confident that I would be a valuable asset to your team. I'm a team player w
 
 **Skills**
 
-* ⚛️ React
+* React
+* MUI
 * Laravel
+* Node.js
+* Express.js
+* Socket.io
 * MERN Stack
 * Python
 * AI
@@ -44,6 +48,7 @@ I'm confident that I would be a valuable asset to your team. I'm a team player w
 * Bachelor of Science in Computer Science and Engineering, Adama Science and Technology University, Ethiopia, 2022
 
 ⚡ Fun fact:
+
 **Testimonials**
 
 > "I'm very impressed with the work that Malda has done for our company. He is a talented developer with a great attitude. I highly recommend him to anyone looking for a full-stack developer." - John Smith, CEO of Acme Corporation
@@ -53,6 +58,7 @@ I'm confident that I would be a valuable asset to your team. I'm a team player w
 > "Malda is a great asset to our team. He is always willing to go the extra mile to get the job done. I highly recommend him to anyone looking for a talented and experienced full-stack developer." - Jane Doe, CTO of XYZ Company
 
 📫 How to reach me:
+
 **Contact**
 
 If you're interested in working with me, please feel free to contact me at maldamotuma@gmail.com or https://maldamotuma.github.io. I look forward to hearing from you!
