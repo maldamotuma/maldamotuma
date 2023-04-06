@@ -40,8 +40,8 @@ I'm confident that I would be a valuable asset to your team. I'm a team player w
 
 **Education**
 
-* Master of Science in Computer Science, Stanford University, 2018
-* Bachelor of Science in Computer Science, University of California, Berkeley, 2016
+* Master of Science in Computer Science and Engineering field of Artificial Intelligence, Adama Science and Technology University, 2024-- expected
+* Bachelor of Science in Computer Science and Engineering, Adama Science and Technology University, Ethiopia, 2022
 
 **Testimonials**
 
@@ -53,4 +53,4 @@ I'm confident that I would be a valuable asset to your team. I'm a team player w
 
 **Contact**
 
-If you're interested in working with me, please feel free to contact me at maldamotuma@gmail.com or hpptps://maldamotuma.github.io. I look forward to hearing from you!
+If you're interested in working with me, please feel free to contact me at maldamotuma@gmail.com or https://maldamotuma.github.io. I look forward to hearing from you!
